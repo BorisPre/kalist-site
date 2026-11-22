@@ -1,0 +1,4351 @@
+[
+ {
+  "id": "wall-pushup",
+  "category": "push",
+  "level": 0,
+  "equipment": "wall",
+  "target": 12,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe au mur",
+   "category": "Poussée",
+   "equipment": "Mur",
+   "level": "Débutant",
+   "cue": "Posez les mains au mur à hauteur de poitrine. Rapprochez les pieds pour réduire la difficulté.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Wall push-up",
+   "category": "Push",
+   "equipment": "Wall",
+   "level": "Beginner",
+   "cue": "Hands at chest height on a wall. Step closer to make the exercise easier.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "wall-pushup.webp",
+   "peak": "wall-pushup-peak.webp",
+   "video": "wall-pushup.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "incline-pushup",
+  "category": "push",
+  "level": 0,
+  "equipment": "platform",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe inclinée",
+   "category": "Poussée",
+   "equipment": "Support stable",
+   "level": "Débutant",
+   "cue": "Posez les mains sur un support stable et surélevé. Plus il est haut, plus la variante est accessible.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Incline push-up",
+   "category": "Push",
+   "equipment": "Stable platform",
+   "level": "Beginner",
+   "cue": "Place your hands on a stable raised support. Raise it to make the exercise easier.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "incline-pushup.webp",
+   "peak": "incline-pushup-peak.webp",
+   "video": "incline-pushup.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "knee-pushup",
+  "category": "push",
+  "level": 0,
+  "equipment": "none",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe sur les genoux",
+   "category": "Poussée",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Gainez le tronc ; alignez tête, hanches et chevilles.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Knee push-up",
+   "category": "Push",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Brace your trunk; keep head, hips and ankles in one line.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "knee-pushup.webp",
+   "peak": "knee-pushup-peak.webp",
+   "video": "knee-pushup.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "pushup",
+  "category": "push",
+  "level": 0,
+  "equipment": "none",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe classique",
+   "category": "Poussée",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Gainez le tronc ; alignez tête, hanches et chevilles.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Push-up",
+   "category": "Push",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Brace your trunk; keep head, hips and ankles in one line.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "pushup.webp",
+   "peak": "pushup-peak.webp",
+   "video": "pushup.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "assisted-dip",
+  "category": "push",
+  "level": 0,
+  "equipment": "parallettes",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "triceps",
+   "chest",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Dips assistés des pieds",
+   "category": "Poussée",
+   "equipment": "Barres parallèles",
+   "level": "Débutant",
+   "cue": "Gardez les deux pieds en appui. Aidez-vous des jambes juste assez pour contrôler la descente.",
+   "safety": "Utilisez des appuis stables et ne descendez que dans une amplitude confortable.",
+   "muscles": [
+    "Triceps",
+    "Pectoraux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Foot-assisted dip",
+   "category": "Push",
+   "equipment": "Parallel bars",
+   "level": "Beginner",
+   "cue": "Keep both feet supported. Use only enough leg assistance to maintain a smooth lowering phase.",
+   "safety": "Use stable supports and only go as low as is comfortable.",
+   "muscles": [
+    "Triceps",
+    "Chest",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "assisted-dip.webp",
+   "peak": "assisted-dip-peak.webp",
+   "video": "assisted-dip.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "dead-hang",
+  "category": "pull",
+  "level": 0,
+  "equipment": "bar",
+  "target": 20,
+  "hold": true,
+  "muscles": [
+   "forearms",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Suspension passive",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Débutant",
+   "cue": "Saisissez fermement la barre ou les anneaux avant de lever les pieds.",
+   "safety": "Redescendez sans vous laisser tomber de la barre.",
+   "muscles": [
+    "Avant-bras",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Dead hang",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Beginner",
+   "cue": "Grip a stable bar or rings securely before lifting your feet.",
+   "safety": "Step down rather than drop from the bar.",
+   "muscles": [
+    "Forearms",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "dead-hang.webp",
+   "peak": "dead-hang-peak.webp",
+   "video": "dead-hang.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.75
+  }
+ },
+ {
+  "id": "active-hang",
+  "category": "pull",
+  "level": 0,
+  "equipment": "bar",
+  "target": 15,
+  "hold": true,
+  "muscles": [
+   "forearms",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Suspension active",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Débutant",
+   "cue": "Gardez les bras tendus et éloignez doucement les épaules des oreilles.",
+   "safety": "Redescendez sans vous laisser tomber de la barre.",
+   "muscles": [
+    "Avant-bras",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Active hang",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Beginner",
+   "cue": "Keep your arms long and gently draw your shoulders away from your ears.",
+   "safety": "Step down rather than drop from the bar.",
+   "muscles": [
+    "Forearms",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "active-hang.webp",
+   "peak": "active-hang-peak.webp",
+   "video": "active-hang.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.75
+  }
+ },
+ {
+  "id": "scapular-pullup",
+  "category": "pull",
+  "level": 0,
+  "equipment": "bar",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Traction scapulaire",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Débutant",
+   "cue": "Gardez les coudes tendus. Abaissez les omoplates pour vous soulever légèrement, puis revenez lentement.",
+   "safety": "Vérifiez la solidité de la barre avant chaque série.",
+   "muscles": [
+    "Dos",
+    "Biceps",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Scapular pull-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Beginner",
+   "cue": "Keep the elbows straight. Lift slightly by pulling the shoulder blades down, then return slowly.",
+   "safety": "Check that the bar is secure before every set.",
+   "muscles": [
+    "Back",
+    "Biceps",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "scapular-pullup.webp",
+   "peak": "scapular-pullup-peak.webp",
+   "video": "scapular-pullup.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.03
+  }
+ },
+ {
+  "id": "australian-row",
+  "category": "pull",
+  "level": 0,
+  "equipment": "bar",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps"
+  ],
+  "fr": {
+   "name": "Tirage australien",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Débutant",
+   "cue": "Réglez la barre basse et ancrez les talons. Pliez les genoux pour rapprocher les pieds et alléger le tirage.",
+   "safety": "Vérifiez la fixation de la barre ou des anneaux avant de vous pencher.",
+   "muscles": [
+    "Dos",
+    "Biceps"
+   ]
+  },
+  "en": {
+   "name": "Australian row",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Beginner",
+   "cue": "Set the bar low and plant your heels. Bend your knees to bring your feet closer and reduce the load.",
+   "safety": "Make sure the bar or rings are fixed before leaning back.",
+   "muscles": [
+    "Back",
+    "Biceps"
+   ]
+  },
+  "media": {
+   "poster": "australian-row.webp",
+   "peak": "australian-row-peak.webp",
+   "video": "australian-row.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "negative-pullup",
+  "category": "pull",
+  "level": 0,
+  "equipment": "bar",
+  "target": 5,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Traction négative",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Débutant",
+   "cue": "Montez sur un support stable pour atteindre la position haute. Descendez en 3 à 5 secondes, puis remontez avec le support.",
+   "safety": "Vérifiez la solidité de la barre avant chaque série.",
+   "muscles": [
+    "Dos",
+    "Biceps",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Negative pull-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Beginner",
+   "cue": "Step onto a stable box to reach the top. Lower for 3–5 seconds, then step up again.",
+   "safety": "Check that the bar is secure before every set.",
+   "muscles": [
+    "Back",
+    "Biceps",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "negative-pullup.webp",
+   "peak": "negative-pullup-peak.webp",
+   "video": "negative-pullup.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 1.45
+  }
+ },
+ {
+  "id": "plank",
+  "category": "core",
+  "level": 0,
+  "equipment": "none",
+  "target": 30,
+  "hold": true,
+  "muscles": [
+   "core",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Gainage avant",
+   "category": "Sangle abdominale",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Alignez les épaules au-dessus de l’appui et gainez le tronc.",
+   "safety": "Arrêtez dès que la position se dégrade.",
+   "muscles": [
+    "Abdominaux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Forearm plank",
+   "category": "Core",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Stack your shoulders above your support and brace your trunk.",
+   "safety": "End the hold as soon as the position breaks down.",
+   "muscles": [
+    "Core",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "plank.webp",
+   "peak": "plank-peak.webp",
+   "video": "plank.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "side-plank",
+  "category": "core",
+  "level": 0,
+  "equipment": "none",
+  "target": 20,
+  "hold": true,
+  "muscles": [
+   "core",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Gainage latéral",
+   "category": "Sangle abdominale",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Placez le coude sous l’épaule. Superposez les hanches et pliez les genoux si nécessaire.",
+   "safety": "Arrêtez dès que la position se dégrade.",
+   "muscles": [
+    "Abdominaux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Side plank",
+   "category": "Core",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Place the elbow under the shoulder. Stack your hips and use bent knees if needed.",
+   "safety": "End the hold as soon as the position breaks down.",
+   "muscles": [
+    "Core",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "side-plank.webp",
+   "peak": "side-plank-peak.webp",
+   "video": "side-plank.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "hollow",
+  "category": "core",
+  "level": 0,
+  "equipment": "none",
+  "target": 20,
+  "hold": true,
+  "muscles": [
+   "core",
+   "hips"
+  ],
+  "fr": {
+   "name": "Hollow body",
+   "category": "Sangle abdominale",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Bougez lentement en contrôlant la position du bas du dos.",
+   "safety": "Pliez les genoux pour réduire le levier si le dos se cambre.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche"
+   ]
+  },
+  "en": {
+   "name": "Hollow body hold",
+   "category": "Core",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Move slowly and keep your lower back position controlled.",
+   "safety": "Bend the knees to shorten the lever if the back arches.",
+   "muscles": [
+    "Core",
+    "Hip flexors"
+   ]
+  },
+  "media": {
+   "poster": "hollow.webp",
+   "peak": "hollow-peak.webp",
+   "video": "hollow.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "dead-bug",
+  "category": "core",
+  "level": 0,
+  "equipment": "none",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "core",
+   "hips"
+  ],
+  "fr": {
+   "name": "Dead bug",
+   "category": "Sangle abdominale",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Allongez-vous, genoux au-dessus des hanches. Tendez un bras et la jambe opposée en stabilisant le bas du dos.",
+   "safety": "Pliez les genoux pour réduire le levier si le dos se cambre.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche"
+   ]
+  },
+  "en": {
+   "name": "Dead bug",
+   "category": "Core",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Lie on your back, knees over hips. Extend the opposite arm and leg while keeping your lower back steady.",
+   "safety": "Bend the knees to shorten the lever if the back arches.",
+   "muscles": [
+    "Core",
+    "Hip flexors"
+   ]
+  },
+  "media": {
+   "poster": "dead-bug.webp",
+   "peak": "dead-bug-peak.webp",
+   "video": "dead-bug.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 2.63
+  }
+ },
+ {
+  "id": "squat",
+  "category": "legs",
+  "level": 0,
+  "equipment": "none",
+  "target": 15,
+  "hold": false,
+  "muscles": [
+   "legs",
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Squat au poids du corps",
+   "category": "Jambes",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Gardez les pieds stables et les genoux dans l’axe des orteils.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Quadriceps",
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Bodyweight squat",
+   "category": "Legs",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Keep your feet planted and knees following the direction of your toes.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Quadriceps",
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "squat.webp",
+   "peak": "squat-peak.webp",
+   "video": "squat.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "lunge",
+  "category": "legs",
+  "level": 0,
+  "equipment": "none",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "legs",
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Fente arrière",
+   "category": "Jambes",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Faites un pas en arrière, fléchissez les deux genoux, puis poussez sur le pied avant pour revenir. Travaillez les deux côtés.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Quadriceps",
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Reverse lunge",
+   "category": "Legs",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Take one step back, bend both knees, then press through the front foot to return. Repeat on both sides.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Quadriceps",
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "lunge.webp",
+   "peak": "lunge-peak.webp",
+   "video": "lunge.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "split-squat",
+  "category": "legs",
+  "level": 0,
+  "equipment": "none",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "legs",
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Squat en fente",
+   "category": "Jambes",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Gardez les pieds en place. Descendez verticalement dans une amplitude confortable, puis remontez sur le pied avant.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Quadriceps",
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Split squat",
+   "category": "Legs",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Keep both feet in place. Lower straight down in a comfortable range, then rise through the front foot.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Quadriceps",
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "split-squat.webp",
+   "peak": "split-squat-peak.webp",
+   "video": "split-squat.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "calf-raise",
+  "category": "legs",
+  "level": 0,
+  "equipment": "none",
+  "target": 15,
+  "hold": false,
+  "muscles": [
+   "calves"
+  ],
+  "fr": {
+   "name": "Extension mollet unilatérale",
+   "category": "Jambes",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Gardez les pieds stables et les genoux dans l’axe des orteils.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Mollets"
+   ]
+  },
+  "en": {
+   "name": "Single-leg calf raise",
+   "category": "Legs",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Keep your feet planted and knees following the direction of your toes.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Calves"
+   ]
+  },
+  "media": {
+   "poster": "calf-raise.webp",
+   "peak": "calf-raise-peak.webp",
+   "video": "calf-raise.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "glute-bridge",
+  "category": "legs",
+  "level": 0,
+  "equipment": "none",
+  "target": 15,
+  "hold": false,
+  "muscles": [
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Pont fessier",
+   "category": "Jambes",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Allongez-vous sur le dos, pieds au sol. Serrez les fessiers pour lever le bassin, puis redescendez lentement.",
+   "safety": "Pliez les genoux pour réduire le levier si le dos se cambre.",
+   "muscles": [
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Glute bridge",
+   "category": "Legs",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Lie on your back with feet planted. Lift your hips by squeezing your glutes and lower slowly.",
+   "safety": "Bend the knees to shorten the lever if the back arches.",
+   "muscles": [
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "glute-bridge.webp",
+   "peak": "glute-bridge-peak.webp",
+   "video": "glute-bridge.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "frog",
+  "category": "balance",
+  "level": 0,
+  "equipment": "none",
+  "target": 15,
+  "hold": true,
+  "muscles": [
+   "shoulders",
+   "core",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Frog stand",
+   "category": "Équilibre",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Posez fermement les mains et transférez le poids lentement.",
+   "safety": "Dégagez l’espace et placez un coussin devant vous.",
+   "muscles": [
+    "Épaules",
+    "Abdominaux",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Frog stand",
+   "category": "Balance",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Set your hands firmly and shift your weight slowly.",
+   "safety": "Clear the area and put a cushion in front of you.",
+   "muscles": [
+    "Shoulders",
+    "Core",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "frog.webp",
+   "peak": "frog-peak.webp",
+   "video": "frog.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "tuck-lsit",
+  "category": "statics",
+  "level": 0,
+  "equipment": "parallettes",
+  "target": 15,
+  "hold": true,
+  "muscles": [
+   "core",
+   "hips",
+   "triceps"
+  ],
+  "fr": {
+   "name": "L-sit groupé",
+   "category": "Figures statiques",
+   "equipment": "Barres parallèles",
+   "level": "Débutant",
+   "cue": "Poussez dans les barres et ramenez les genoux vers la poitrine. Reposez les pieds avant de perdre l’appui des épaules.",
+   "safety": "Échauffez les poignets et arrêtez avant la douleur.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche",
+    "Triceps"
+   ]
+  },
+  "en": {
+   "name": "Tuck L-sit",
+   "category": "Static holds",
+   "equipment": "Parallel bars",
+   "level": "Beginner",
+   "cue": "Press down on the bars and lift both knees toward your chest. Set your feet down before your shoulders rise.",
+   "safety": "Warm up the wrists and stop before they ache.",
+   "muscles": [
+    "Core",
+    "Hip flexors",
+    "Triceps"
+   ]
+  },
+  "media": {
+   "poster": "tuck-lsit.webp",
+   "peak": "tuck-lsit-peak.webp",
+   "video": "tuck-lsit.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "ring-row",
+  "category": "rings",
+  "level": 0,
+  "equipment": "rings",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps"
+  ],
+  "fr": {
+   "name": "Tirage aux anneaux",
+   "category": "Anneaux",
+   "equipment": "Anneaux",
+   "level": "Débutant",
+   "cue": "Réglez les anneaux à la même hauteur. Reculez les pieds et redressez le buste pour faciliter le tirage.",
+   "safety": "Vérifiez la fixation de la barre ou des anneaux avant de vous pencher.",
+   "muscles": [
+    "Dos",
+    "Biceps"
+   ]
+  },
+  "en": {
+   "name": "Ring row",
+   "category": "Rings",
+   "equipment": "Rings",
+   "level": "Beginner",
+   "cue": "Set both rings at the same height. Move your feet farther back and make your torso more upright to reduce difficulty.",
+   "safety": "Make sure the bar or rings are fixed before leaning back.",
+   "muscles": [
+    "Back",
+    "Biceps"
+   ]
+  },
+  "media": {
+   "poster": "ring-row.webp",
+   "peak": "ring-row-peak.webp",
+   "video": "ring-row.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "wrist-prep",
+  "category": "mobility",
+  "level": 0,
+  "equipment": "none",
+  "target": 30,
+  "hold": true,
+  "muscles": [
+   "forearms"
+  ],
+  "fr": {
+   "name": "Préparation des poignets",
+   "category": "Mobilité",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "À quatre pattes, basculez doucement d’avant en arrière, paumes à plat.",
+   "safety": "Une légère tension suffit ; arrêtez en cas de douleur.",
+   "muscles": [
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Wrist preparation",
+   "category": "Mobility",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "On hands and knees, gently rock forward and back with palms flat.",
+   "safety": "A mild stretch is enough; stop if you feel pain.",
+   "muscles": [
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "wrist-prep.webp",
+   "peak": "wrist-prep-peak.webp",
+   "video": "wrist-prep.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 2.9
+  }
+ },
+ {
+  "id": "shoulder-circles",
+  "category": "mobility",
+  "level": 0,
+  "equipment": "none",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "shoulders",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Cercles d’épaules",
+   "category": "Mobilité",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Faites de petits cercles lents avec les bras, puis augmentez l’amplitude à mesure que vous vous échauffez.",
+   "safety": "Une légère tension suffit ; arrêtez en cas de douleur.",
+   "muscles": [
+    "Épaules",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Shoulder circles",
+   "category": "Mobility",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Make small, slow circles with your arms and increase the range as you warm up.",
+   "safety": "A mild stretch is enough; stop if you feel pain.",
+   "muscles": [
+    "Shoulders",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "shoulder-circles.webp",
+   "peak": "shoulder-circles-peak.webp",
+   "video": "shoulder-circles.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "scap-pushup",
+  "category": "mobility",
+  "level": 0,
+  "equipment": "none",
+  "target": 12,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe scapulaire",
+   "category": "Mobilité",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Gainez le tronc ; alignez tête, hanches et chevilles.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Scapular push-up",
+   "category": "Mobility",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Brace your trunk; keep head, hips and ankles in one line.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "scap-pushup.webp",
+   "peak": "scap-pushup-peak.webp",
+   "video": "scap-pushup.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "pike-stretch",
+  "category": "mobility",
+  "level": 0,
+  "equipment": "none",
+  "target": 30,
+  "hold": true,
+  "muscles": [
+   "hips"
+  ],
+  "fr": {
+   "name": "Étirement en fermeture",
+   "category": "Mobilité",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Bougez doucement dans une amplitude confortable, sans forcer.",
+   "safety": "Une légère tension suffit ; arrêtez en cas de douleur.",
+   "muscles": [
+    "Fléchisseurs de hanche"
+   ]
+  },
+  "en": {
+   "name": "Seated pike stretch",
+   "category": "Mobility",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Move gently through a comfortable range without forcing.",
+   "safety": "A mild stretch is enough; stop if you feel pain.",
+   "muscles": [
+    "Hip flexors"
+   ]
+  },
+  "media": {
+   "poster": "pike-stretch.webp",
+   "peak": "pike-stretch-peak.webp",
+   "video": "pike-stretch.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "deep-squat",
+  "category": "mobility",
+  "level": 0,
+  "equipment": "none",
+  "target": 30,
+  "hold": true,
+  "muscles": [
+   "shoulders",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Maintien en squat profond",
+   "category": "Mobilité",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Bougez doucement dans une amplitude confortable, sans forcer.",
+   "safety": "Une légère tension suffit ; arrêtez en cas de douleur.",
+   "muscles": [
+    "Épaules",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Deep squat hold",
+   "category": "Mobility",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Move gently through a comfortable range without forcing.",
+   "safety": "A mild stretch is enough; stop if you feel pain.",
+   "muscles": [
+    "Shoulders",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "deep-squat.webp",
+   "peak": "deep-squat-peak.webp",
+   "video": "deep-squat.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "thoracic",
+  "category": "mobility",
+  "level": 0,
+  "equipment": "none",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "back",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Rotation thoracique",
+   "category": "Mobilité",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Bougez doucement dans une amplitude confortable, sans forcer.",
+   "safety": "Une légère tension suffit ; arrêtez en cas de douleur.",
+   "muscles": [
+    "Dos",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Thoracic rotation",
+   "category": "Mobility",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Move gently through a comfortable range without forcing.",
+   "safety": "A mild stretch is enough; stop if you feel pain.",
+   "muscles": [
+    "Back",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "thoracic.webp",
+   "peak": "thoracic-peak.webp",
+   "video": "thoracic.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 2.25
+  }
+ },
+ {
+  "id": "assisted-pullup",
+  "category": "pull",
+  "level": 0,
+  "equipment": "bar",
+  "target": 6,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Traction assistée",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Débutant",
+   "cue": "Partez d’une suspension contrôlée et engagez les omoplates.",
+   "safety": "Vérifiez la solidité de la barre avant chaque série.",
+   "muscles": [
+    "Dos",
+    "Biceps",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Band-assisted pull-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Beginner",
+   "cue": "Start from a controlled hang and engage the shoulder blades.",
+   "safety": "Check that the bar is secure before every set.",
+   "muscles": [
+    "Back",
+    "Biceps",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "assisted-pullup.webp",
+   "peak": "assisted-pullup-peak.webp",
+   "video": "assisted-pullup.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "assisted-squat",
+  "category": "legs",
+  "level": 0,
+  "equipment": "wall",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "legs",
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Squat assisté",
+   "category": "Jambes",
+   "equipment": "Mur",
+   "level": "Débutant",
+   "cue": "Gardez les pieds stables et les genoux dans l’axe des orteils.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Quadriceps",
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Assisted squat",
+   "category": "Legs",
+   "equipment": "Wall",
+   "level": "Beginner",
+   "cue": "Keep your feet planted and knees following the direction of your toes.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Quadriceps",
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "assisted-squat.webp",
+   "peak": "assisted-squat-peak.webp",
+   "video": "assisted-squat.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "forward-lunge",
+  "category": "legs",
+  "level": 0,
+  "equipment": "none",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "legs",
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Fente avant",
+   "category": "Jambes",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Gardez les pieds stables et les genoux dans l’axe des orteils.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Quadriceps",
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Forward lunge",
+   "category": "Legs",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Keep your feet planted and knees following the direction of your toes.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Quadriceps",
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "forward-lunge.webp",
+   "peak": "forward-lunge-peak.webp",
+   "video": "forward-lunge.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "lying-leg-raise",
+  "category": "core",
+  "level": 0,
+  "equipment": "none",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "core",
+   "hips"
+  ],
+  "fr": {
+   "name": "Relevé de jambes au sol",
+   "category": "Sangle abdominale",
+   "equipment": "Sans matériel",
+   "level": "Débutant",
+   "cue": "Bougez lentement en contrôlant la position du bas du dos.",
+   "safety": "Pliez les genoux pour réduire le levier si le dos se cambre.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche"
+   ]
+  },
+  "en": {
+   "name": "Lying leg raise",
+   "category": "Core",
+   "equipment": "No equipment",
+   "level": "Beginner",
+   "cue": "Move slowly and keep your lower back position controlled.",
+   "safety": "Bend the knees to shorten the lever if the back arches.",
+   "muscles": [
+    "Core",
+    "Hip flexors"
+   ]
+  },
+  "media": {
+   "poster": "lying-leg-raise.webp",
+   "peak": "lying-leg-raise-peak.webp",
+   "video": "lying-leg-raise.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "diamond-pushup",
+  "category": "push",
+  "level": 1,
+  "equipment": "none",
+  "target": 8,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe diamant",
+   "category": "Poussée",
+   "equipment": "Sans matériel",
+   "level": "Intermédiaire",
+   "cue": "Gainez le tronc ; alignez tête, hanches et chevilles.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Diamond push-up",
+   "category": "Push",
+   "equipment": "No equipment",
+   "level": "Intermediate",
+   "cue": "Brace your trunk; keep head, hips and ankles in one line.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "diamond-pushup.webp",
+   "peak": "diamond-pushup-peak.webp",
+   "video": "diamond-pushup.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "wide-pushup",
+  "category": "push",
+  "level": 1,
+  "equipment": "none",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe large",
+   "category": "Poussée",
+   "equipment": "Sans matériel",
+   "level": "Intermédiaire",
+   "cue": "Gainez le tronc ; alignez tête, hanches et chevilles.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Wide push-up",
+   "category": "Push",
+   "equipment": "No equipment",
+   "level": "Intermediate",
+   "cue": "Brace your trunk; keep head, hips and ankles in one line.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "wide-pushup.webp",
+   "peak": "wide-pushup-peak.webp",
+   "video": "wide-pushup.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "decline-pushup",
+  "category": "push",
+  "level": 1,
+  "equipment": "platform",
+  "target": 8,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe déclinée",
+   "category": "Poussée",
+   "equipment": "Support stable",
+   "level": "Intermédiaire",
+   "cue": "Gainez le tronc ; alignez tête, hanches et chevilles.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Decline push-up",
+   "category": "Push",
+   "equipment": "Stable platform",
+   "level": "Intermediate",
+   "cue": "Brace your trunk; keep head, hips and ankles in one line.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "decline-pushup.webp",
+   "peak": "decline-pushup-peak.webp",
+   "video": "decline-pushup.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "pike-pushup",
+  "category": "push",
+  "level": 1,
+  "equipment": "none",
+  "target": 8,
+  "hold": false,
+  "muscles": [
+   "shoulders",
+   "triceps",
+   "core"
+  ],
+  "fr": {
+   "name": "Pompe en pike",
+   "category": "Poussée",
+   "equipment": "Sans matériel",
+   "level": "Intermédiaire",
+   "cue": "Levez les hanches en V inversé. Pliez les bras pour amener la tête légèrement vers l’avant entre les mains.",
+   "safety": "Gardez une sortie dégagée et pratiquez sur une surface souple.",
+   "muscles": [
+    "Épaules",
+    "Triceps",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Pike push-up",
+   "category": "Push",
+   "equipment": "No equipment",
+   "level": "Intermediate",
+   "cue": "Raise your hips into an inverted V. Bend the arms to bring your head slightly forward between the hands.",
+   "safety": "Keep a clear exit and practise over a soft surface.",
+   "muscles": [
+    "Shoulders",
+    "Triceps",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "pike-pushup.webp",
+   "peak": "pike-pushup-peak.webp",
+   "video": "pike-pushup.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "dip",
+  "category": "push",
+  "level": 1,
+  "equipment": "parallettes",
+  "target": 8,
+  "hold": false,
+  "muscles": [
+   "triceps",
+   "chest",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Dips aux barres",
+   "category": "Poussée",
+   "equipment": "Barres parallèles",
+   "level": "Intermédiaire",
+   "cue": "Utilisez un support stable et abaissez les épaules.",
+   "safety": "Utilisez des appuis stables et ne descendez que dans une amplitude confortable.",
+   "muscles": [
+    "Triceps",
+    "Pectoraux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Parallel bar dip",
+   "category": "Push",
+   "equipment": "Parallel bars",
+   "level": "Intermediate",
+   "cue": "Use stable equipment and press the shoulders away from the ears.",
+   "safety": "Use stable supports and only go as low as is comfortable.",
+   "muscles": [
+    "Triceps",
+    "Chest",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "dip.webp",
+   "peak": "dip-peak.webp",
+   "video": "dip.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "pullup",
+  "category": "pull",
+  "level": 1,
+  "equipment": "bar",
+  "target": 6,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Traction pronation",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Intermédiaire",
+   "cue": "Partez d’une suspension contrôlée et engagez les omoplates.",
+   "safety": "Vérifiez la solidité de la barre avant chaque série.",
+   "muscles": [
+    "Dos",
+    "Biceps",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Pull-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Intermediate",
+   "cue": "Start from a controlled hang and engage the shoulder blades.",
+   "safety": "Check that the bar is secure before every set.",
+   "muscles": [
+    "Back",
+    "Biceps",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "pullup.webp",
+   "peak": "pullup-peak.webp",
+   "video": "pullup.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "chinup",
+  "category": "pull",
+  "level": 1,
+  "equipment": "bar",
+  "target": 6,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Traction supination",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Intermédiaire",
+   "cue": "Prenez la barre paumes vers vous. Montez sans à-coup et gardez les jambes stables.",
+   "safety": "Vérifiez la solidité de la barre avant chaque série.",
+   "muscles": [
+    "Dos",
+    "Biceps",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Chin-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Intermediate",
+   "cue": "Grip the bar with palms toward you. Keep the ascent smooth and avoid swinging the legs.",
+   "safety": "Check that the bar is secure before every set.",
+   "muscles": [
+    "Back",
+    "Biceps",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "chinup.webp",
+   "peak": "chinup-peak.webp",
+   "video": "chinup.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "wide-pullup",
+  "category": "pull",
+  "level": 1,
+  "equipment": "bar",
+  "target": 5,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Traction large",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Intermédiaire",
+   "cue": "Partez d’une suspension contrôlée et engagez les omoplates.",
+   "safety": "Vérifiez la solidité de la barre avant chaque série.",
+   "muscles": [
+    "Dos",
+    "Biceps",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Wide-grip pull-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Intermediate",
+   "cue": "Start from a controlled hang and engage the shoulder blades.",
+   "safety": "Check that the bar is secure before every set.",
+   "muscles": [
+    "Back",
+    "Biceps",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "wide-pullup.webp",
+   "peak": "wide-pullup-peak.webp",
+   "video": "wide-pullup.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "knee-raise",
+  "category": "core",
+  "level": 1,
+  "equipment": "bar",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "core",
+   "hips",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Relevé de genoux suspendu",
+   "category": "Sangle abdominale",
+   "equipment": "Barre de traction",
+   "level": "Intermédiaire",
+   "cue": "Partez d’une suspension active stable sans balancement.",
+   "safety": "Partez d’une suspension immobile et arrêtez si la prise faiblit.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Hanging knee raise",
+   "category": "Core",
+   "equipment": "Pull-up bar",
+   "level": "Intermediate",
+   "cue": "Start from a stable active hang without swinging.",
+   "safety": "Start from a still hang and stop if your grip fades.",
+   "muscles": [
+    "Core",
+    "Hip flexors",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "knee-raise.webp",
+   "peak": "knee-raise-peak.webp",
+   "video": "knee-raise.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "leg-raise",
+  "category": "core",
+  "level": 1,
+  "equipment": "bar",
+  "target": 8,
+  "hold": false,
+  "muscles": [
+   "core",
+   "hips",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Relevé de jambes suspendu",
+   "category": "Sangle abdominale",
+   "equipment": "Barre de traction",
+   "level": "Intermédiaire",
+   "cue": "Partez d’une suspension active stable sans balancement.",
+   "safety": "Partez d’une suspension immobile et arrêtez si la prise faiblit.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Hanging leg raise",
+   "category": "Core",
+   "equipment": "Pull-up bar",
+   "level": "Intermediate",
+   "cue": "Start from a stable active hang without swinging.",
+   "safety": "Start from a still hang and stop if your grip fades.",
+   "muscles": [
+    "Core",
+    "Hip flexors",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "leg-raise.webp",
+   "peak": "leg-raise-peak.webp",
+   "video": "leg-raise.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "compression",
+  "category": "core",
+  "level": 1,
+  "equipment": "none",
+  "target": 10,
+  "hold": false,
+  "muscles": [
+   "core",
+   "hips",
+   "triceps"
+  ],
+  "fr": {
+   "name": "Compression assise",
+   "category": "Sangle abdominale",
+   "equipment": "Sans matériel",
+   "level": "Intermédiaire",
+   "cue": "Asseyez-vous jambes tendues. Placez les mains près des cuisses et décollez les talons brièvement sans reculer le buste.",
+   "safety": "Échauffez les poignets et arrêtez avant la douleur.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche",
+    "Triceps"
+   ]
+  },
+  "en": {
+   "name": "Seated compression lift",
+   "category": "Core",
+   "equipment": "No equipment",
+   "level": "Intermediate",
+   "cue": "Sit with legs straight. Place your hands next to your thighs and lift the heels briefly without leaning back.",
+   "safety": "Warm up the wrists and stop before they ache.",
+   "muscles": [
+    "Core",
+    "Hip flexors",
+    "Triceps"
+   ]
+  },
+  "media": {
+   "poster": "compression.webp",
+   "peak": "compression-peak.webp",
+   "video": "compression.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "cossack",
+  "category": "legs",
+  "level": 1,
+  "equipment": "none",
+  "target": 8,
+  "hold": false,
+  "muscles": [
+   "legs",
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Squat cosaque",
+   "category": "Jambes",
+   "equipment": "Sans matériel",
+   "level": "Intermédiaire",
+   "cue": "Déplacez le poids d’un côté en gardant l’autre jambe tendue. Aidez-vous d’un appui si le talon se soulève.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Quadriceps",
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Cossack squat",
+   "category": "Legs",
+   "equipment": "No equipment",
+   "level": "Intermediate",
+   "cue": "Shift your weight to one side as the other leg stays long. Use a support if your heel lifts.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Quadriceps",
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "cossack.webp",
+   "peak": "cossack-peak.webp",
+   "video": "cossack.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "assisted-pistol",
+  "category": "legs",
+  "level": 1,
+  "equipment": "bar",
+  "target": 6,
+  "hold": false,
+  "muscles": [
+   "legs",
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Pistol squat assisté",
+   "category": "Jambes",
+   "equipment": "Barre de traction",
+   "level": "Intermédiaire",
+   "cue": "Tenez un support fixe et aidez-vous des mains au besoin. Gardez le talon d’appui au sol et tendez l’autre jambe devant vous.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Quadriceps",
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Assisted pistol squat",
+   "category": "Legs",
+   "equipment": "Pull-up bar",
+   "level": "Intermediate",
+   "cue": "Hold a fixed support and use your hands as needed. Keep the working heel down while the other leg reaches forward.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Quadriceps",
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "assisted-pistol.webp",
+   "peak": "assisted-pistol-peak.webp",
+   "video": "assisted-pistol.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "wall-handstand",
+  "category": "balance",
+  "level": 1,
+  "equipment": "wall",
+  "target": 20,
+  "hold": true,
+  "muscles": [
+   "shoulders",
+   "triceps",
+   "core"
+  ],
+  "fr": {
+   "name": "Équilibre au mur",
+   "category": "Équilibre",
+   "equipment": "Mur",
+   "level": "Intermédiaire",
+   "cue": "Posez les mains près du mur et montez avec un élan léger. Posez délicatement les talons au mur.",
+   "safety": "Gardez une sortie dégagée et pratiquez sur une surface souple.",
+   "muscles": [
+    "Épaules",
+    "Triceps",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Wall handstand",
+   "category": "Balance",
+   "equipment": "Wall",
+   "level": "Intermediate",
+   "cue": "Set your hands near the wall and use a gentle kick-up. Touch the wall lightly with your heels.",
+   "safety": "Keep a clear exit and practise over a soft surface.",
+   "muscles": [
+    "Shoulders",
+    "Triceps",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "wall-handstand.webp",
+   "peak": "wall-handstand-peak.webp",
+   "video": "wall-handstand.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 3.4
+  }
+ },
+ {
+  "id": "chest-wall",
+  "category": "balance",
+  "level": 1,
+  "equipment": "wall",
+  "target": 20,
+  "hold": true,
+  "muscles": [
+   "shoulders",
+   "triceps",
+   "core"
+  ],
+  "fr": {
+   "name": "Équilibre face au mur",
+   "category": "Équilibre",
+   "equipment": "Mur",
+   "level": "Intermédiaire",
+   "cue": "Face au mur, montez seulement jusqu’à une position dont vous savez sortir. Repoussez le sol et rentrez les côtes.",
+   "safety": "Gardez une sortie dégagée et pratiquez sur une surface souple.",
+   "muscles": [
+    "Épaules",
+    "Triceps",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Chest-to-wall handstand",
+   "category": "Balance",
+   "equipment": "Wall",
+   "level": "Intermediate",
+   "cue": "Face the wall and climb only as far as you can exit safely. Press the floor away and keep your ribs in.",
+   "safety": "Keep a clear exit and practise over a soft surface.",
+   "muscles": [
+    "Shoulders",
+    "Triceps",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "chest-wall.webp",
+   "peak": "chest-wall-peak.webp",
+   "video": "chest-wall.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 3.4
+  }
+ },
+ {
+  "id": "one-leg-lsit",
+  "category": "statics",
+  "level": 1,
+  "equipment": "parallettes",
+  "target": 12,
+  "hold": true,
+  "muscles": [
+   "core",
+   "hips",
+   "triceps"
+  ],
+  "fr": {
+   "name": "L-sit une jambe",
+   "category": "Figures statiques",
+   "equipment": "Barres parallèles",
+   "level": "Intermédiaire",
+   "cue": "Gardez un genou groupé et tendez l’autre jambe. Tenez la même durée de chaque côté.",
+   "safety": "Échauffez les poignets et arrêtez avant la douleur.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche",
+    "Triceps"
+   ]
+  },
+  "en": {
+   "name": "One-leg L-sit",
+   "category": "Static holds",
+   "equipment": "Parallel bars",
+   "level": "Intermediate",
+   "cue": "Keep one knee tucked and extend the other leg. Match the hold time on each side.",
+   "safety": "Warm up the wrists and stop before they ache.",
+   "muscles": [
+    "Core",
+    "Hip flexors",
+    "Triceps"
+   ]
+  },
+  "media": {
+   "poster": "one-leg-lsit.webp",
+   "peak": "one-leg-lsit-peak.webp",
+   "video": "one-leg-lsit.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "lsit",
+  "category": "statics",
+  "level": 1,
+  "equipment": "parallettes",
+  "target": 15,
+  "hold": true,
+  "muscles": [
+   "core",
+   "hips",
+   "triceps"
+  ],
+  "fr": {
+   "name": "L-sit",
+   "category": "Figures statiques",
+   "equipment": "Barres parallèles",
+   "level": "Intermédiaire",
+   "cue": "Repoussez fermement les barres, coudes tendus.",
+   "safety": "Échauffez les poignets et arrêtez avant la douleur.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche",
+    "Triceps"
+   ]
+  },
+  "en": {
+   "name": "L-sit",
+   "category": "Static holds",
+   "equipment": "Parallel bars",
+   "level": "Intermediate",
+   "cue": "Press firmly into the bars with elbows extended.",
+   "safety": "Warm up the wrists and stop before they ache.",
+   "muscles": [
+    "Core",
+    "Hip flexors",
+    "Triceps"
+   ]
+  },
+  "media": {
+   "poster": "lsit.webp",
+   "peak": "lsit-peak.webp",
+   "video": "lsit.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "planche-lean",
+  "category": "statics",
+  "level": 1,
+  "equipment": "none",
+  "target": 15,
+  "hold": true,
+  "muscles": [
+   "shoulders",
+   "core",
+   "chest"
+  ],
+  "fr": {
+   "name": "Inclinaison planche",
+   "category": "Figures statiques",
+   "equipment": "Sans matériel",
+   "level": "Intermédiaire",
+   "cue": "Gardez les orteils au sol. Avancez légèrement les épaules devant les mains, coudes tendus et omoplates écartées.",
+   "safety": "Préparez les poignets et progressez lentement : les tendons s’adaptent moins vite que les muscles.",
+   "muscles": [
+    "Épaules",
+    "Abdominaux",
+    "Pectoraux"
+   ]
+  },
+  "en": {
+   "name": "Planche lean",
+   "category": "Static holds",
+   "equipment": "No equipment",
+   "level": "Intermediate",
+   "cue": "Keep toes planted. Move your shoulders a little forward of your hands, with straight elbows and pushed-out shoulder blades.",
+   "safety": "Prepare the wrists and progress slowly: tendons adapt more slowly than muscle.",
+   "muscles": [
+    "Shoulders",
+    "Core",
+    "Chest"
+   ]
+  },
+  "media": {
+   "poster": "planche-lean.webp",
+   "peak": "planche-lean-peak.webp",
+   "video": "planche-lean.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "tuck-front",
+  "category": "statics",
+  "level": 1,
+  "equipment": "bar",
+  "target": 10,
+  "hold": true,
+  "muscles": [
+   "back",
+   "core",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Front lever groupé",
+   "category": "Figures statiques",
+   "equipment": "Barre de traction",
+   "level": "Intermédiaire",
+   "cue": "Ramenez les genoux près de la poitrine et approchez le dos de l’horizontale, coudes tendus.",
+   "safety": "Ces tenues sollicitent coudes et épaules : progressez avec les variantes groupées.",
+   "muscles": [
+    "Dos",
+    "Abdominaux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Tuck front lever",
+   "category": "Static holds",
+   "equipment": "Pull-up bar",
+   "level": "Intermediate",
+   "cue": "Pull your knees toward your chest and bring your back toward horizontal while keeping your elbows extended.",
+   "safety": "These holds load elbows and shoulders: build up with tucked variations.",
+   "muscles": [
+    "Back",
+    "Core",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "tuck-front.webp",
+   "peak": "tuck-front-peak.webp",
+   "video": "tuck-front.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "ring-support",
+  "category": "rings",
+  "level": 1,
+  "equipment": "rings",
+  "target": 20,
+  "hold": true,
+  "muscles": [
+   "triceps",
+   "chest",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Support aux anneaux",
+   "category": "Anneaux",
+   "equipment": "Anneaux",
+   "level": "Intermédiaire",
+   "cue": "Réglez les anneaux à la même hauteur. Commencez pieds légèrement en appui, puis décollez-les quand les anneaux restent stables.",
+   "safety": "Utilisez des appuis stables et ne descendez que dans une amplitude confortable.",
+   "muscles": [
+    "Triceps",
+    "Pectoraux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Ring support hold",
+   "category": "Rings",
+   "equipment": "Rings",
+   "level": "Intermediate",
+   "cue": "Set the rings at equal height. Start with feet lightly supported, then lift them when the rings stay still.",
+   "safety": "Use stable supports and only go as low as is comfortable.",
+   "muscles": [
+    "Triceps",
+    "Chest",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "ring-support.webp",
+   "peak": "ring-support-peak.webp",
+   "video": "ring-support.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "ring-pushup",
+  "category": "rings",
+  "level": 1,
+  "equipment": "rings",
+  "target": 8,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe aux anneaux",
+   "category": "Anneaux",
+   "equipment": "Anneaux",
+   "level": "Intermédiaire",
+   "cue": "Gainez le tronc ; alignez tête, hanches et chevilles.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Ring push-up",
+   "category": "Rings",
+   "equipment": "Rings",
+   "level": "Intermediate",
+   "cue": "Brace your trunk; keep head, hips and ankles in one line.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "ring-pushup.webp",
+   "peak": "ring-pushup-peak.webp",
+   "video": "ring-pushup.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "false-grip",
+  "category": "rings",
+  "level": 1,
+  "equipment": "rings",
+  "target": 15,
+  "hold": true,
+  "muscles": [
+   "forearms",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Suspension en false grip",
+   "category": "Anneaux",
+   "equipment": "Anneaux",
+   "level": "Intermédiaire",
+   "cue": "Saisissez fermement la barre ou les anneaux avant de lever les pieds.",
+   "safety": "Redescendez sans vous laisser tomber de la barre.",
+   "muscles": [
+    "Avant-bras",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "False grip hang",
+   "category": "Rings",
+   "equipment": "Rings",
+   "level": "Intermediate",
+   "cue": "Grip a stable bar or rings securely before lifting your feet.",
+   "safety": "Step down rather than drop from the bar.",
+   "muscles": [
+    "Forearms",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "false-grip.webp",
+   "peak": "false-grip-peak.webp",
+   "video": "false-grip.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.9
+  }
+ },
+ {
+  "id": "bulgarian-split",
+  "category": "legs",
+  "level": 1,
+  "equipment": "platform",
+  "target": 8,
+  "hold": false,
+  "muscles": [
+   "legs",
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Squat bulgare",
+   "category": "Jambes",
+   "equipment": "Support stable",
+   "level": "Intermédiaire",
+   "cue": "Gardez les pieds stables et les genoux dans l’axe des orteils.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Quadriceps",
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Bulgarian split squat",
+   "category": "Legs",
+   "equipment": "Stable platform",
+   "level": "Intermediate",
+   "cue": "Keep your feet planted and knees following the direction of your toes.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Quadriceps",
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "bulgarian-split.webp",
+   "peak": "bulgarian-split-peak.webp",
+   "video": "bulgarian-split.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "jump-squat",
+  "category": "legs",
+  "level": 1,
+  "equipment": "none",
+  "target": 8,
+  "hold": false,
+  "muscles": [
+   "legs",
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Squat sauté",
+   "category": "Jambes",
+   "equipment": "Sans matériel",
+   "level": "Intermédiaire",
+   "cue": "Gardez les pieds stables et les genoux dans l’axe des orteils.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Quadriceps",
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Jump squat",
+   "category": "Legs",
+   "equipment": "No equipment",
+   "level": "Intermediate",
+   "cue": "Keep your feet planted and knees following the direction of your toes.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Quadriceps",
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "jump-squat.webp",
+   "peak": "jump-squat-peak.webp",
+   "video": "jump-squat.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "crow",
+  "category": "balance",
+  "level": 1,
+  "equipment": "none",
+  "target": 15,
+  "hold": true,
+  "muscles": [
+   "shoulders",
+   "core",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Posture du corbeau",
+   "category": "Équilibre",
+   "equipment": "Sans matériel",
+   "level": "Intermédiaire",
+   "cue": "Posez fermement les mains et transférez le poids lentement.",
+   "safety": "Dégagez l’espace et placez un coussin devant vous.",
+   "muscles": [
+    "Épaules",
+    "Abdominaux",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Crow pose",
+   "category": "Balance",
+   "equipment": "No equipment",
+   "level": "Intermediate",
+   "cue": "Set your hands firmly and shift your weight slowly.",
+   "safety": "Clear the area and put a cushion in front of you.",
+   "muscles": [
+    "Shoulders",
+    "Core",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "crow.webp",
+   "peak": "crow-peak.webp",
+   "video": "crow.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "archer-pushup",
+  "category": "push",
+  "level": 2,
+  "equipment": "none",
+  "target": 5,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe archer",
+   "category": "Poussée",
+   "equipment": "Sans matériel",
+   "level": "Avancé",
+   "cue": "Gainez le tronc ; alignez tête, hanches et chevilles.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Archer push-up",
+   "category": "Push",
+   "equipment": "No equipment",
+   "level": "Advanced",
+   "cue": "Brace your trunk; keep head, hips and ankles in one line.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "archer-pushup.webp",
+   "peak": "archer-pushup-peak.webp",
+   "video": "archer-pushup.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "pseudo-pushup",
+  "category": "push",
+  "level": 2,
+  "equipment": "none",
+  "target": 6,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe pseudo planche",
+   "category": "Poussée",
+   "equipment": "Sans matériel",
+   "level": "Avancé",
+   "cue": "Gainez le tronc ; alignez tête, hanches et chevilles.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Pseudo planche push-up",
+   "category": "Push",
+   "equipment": "No equipment",
+   "level": "Advanced",
+   "cue": "Brace your trunk; keep head, hips and ankles in one line.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "pseudo-pushup.webp",
+   "peak": "pseudo-pushup-peak.webp",
+   "video": "pseudo-pushup.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "straight-dip",
+  "category": "push",
+  "level": 2,
+  "equipment": "bar",
+  "target": 6,
+  "hold": false,
+  "muscles": [
+   "triceps",
+   "chest",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Dips à la barre droite",
+   "category": "Poussée",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Partez en appui au-dessus d’une barre fixe, mains devant vous. Inclinez légèrement le buste et repoussez jusqu’à un appui stable.",
+   "safety": "Utilisez des appuis stables et ne descendez que dans une amplitude confortable.",
+   "muscles": [
+    "Triceps",
+    "Pectoraux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Straight bar dip",
+   "category": "Push",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Start above a fixed bar with your hands in front. Incline slightly and press back to a steady support.",
+   "safety": "Use stable supports and only go as low as is comfortable.",
+   "muscles": [
+    "Triceps",
+    "Chest",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "straight-dip.webp",
+   "peak": "straight-dip-peak.webp",
+   "video": "straight-dip.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "handstand-pushup",
+  "category": "push",
+  "level": 2,
+  "equipment": "wall",
+  "target": 5,
+  "hold": false,
+  "muscles": [
+   "shoulders",
+   "triceps",
+   "core"
+  ],
+  "fr": {
+   "name": "Pompe en équilibre au mur",
+   "category": "Poussée",
+   "equipment": "Mur",
+   "level": "Avancé",
+   "cue": "Préparez poignets et épaules avant la charge en inversion.",
+   "safety": "Gardez une sortie dégagée et pratiquez sur une surface souple.",
+   "muscles": [
+    "Épaules",
+    "Triceps",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Wall handstand push-up",
+   "category": "Push",
+   "equipment": "Wall",
+   "level": "Advanced",
+   "cue": "Build wrist and shoulder tolerance before adding load upside down.",
+   "safety": "Keep a clear exit and practise over a soft surface.",
+   "muscles": [
+    "Shoulders",
+    "Triceps",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "handstand-pushup.webp",
+   "peak": "handstand-pushup-peak.webp",
+   "video": "handstand-pushup.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.32
+  }
+ },
+ {
+  "id": "one-arm-pushup",
+  "category": "push",
+  "level": 2,
+  "equipment": "none",
+  "target": 3,
+  "hold": false,
+  "muscles": [
+   "chest",
+   "triceps",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Pompe à un bras",
+   "category": "Poussée",
+   "equipment": "Sans matériel",
+   "level": "Avancé",
+   "cue": "Gainez le tronc ; alignez tête, hanches et chevilles.",
+   "safety": "Arrêtez en cas de douleur vive au poignet ou à l’épaule.",
+   "muscles": [
+    "Pectoraux",
+    "Triceps",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "One-arm push-up",
+   "category": "Push",
+   "equipment": "No equipment",
+   "level": "Advanced",
+   "cue": "Brace your trunk; keep head, hips and ankles in one line.",
+   "safety": "Stop if you feel a sharp pain in the wrist or shoulder.",
+   "muscles": [
+    "Chest",
+    "Triceps",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "one-arm-pushup.webp",
+   "peak": "one-arm-pushup-peak.webp",
+   "video": "one-arm-pushup.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "archer-pullup",
+  "category": "pull",
+  "level": 2,
+  "equipment": "bar",
+  "target": 4,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Traction archer",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Partez d’une suspension contrôlée et engagez les omoplates.",
+   "safety": "Vérifiez la solidité de la barre avant chaque série.",
+   "muscles": [
+    "Dos",
+    "Biceps",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Archer pull-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Start from a controlled hang and engage the shoulder blades.",
+   "safety": "Check that the bar is secure before every set.",
+   "muscles": [
+    "Back",
+    "Biceps",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "archer-pullup.webp",
+   "peak": "archer-pullup-peak.webp",
+   "video": "archer-pullup.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 2.25
+  }
+ },
+ {
+  "id": "explosive-pullup",
+  "category": "pull",
+  "level": 2,
+  "equipment": "bar",
+  "target": 4,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Traction explosive",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Tirez vite depuis une suspension stable, vers la poitrine. Arrêtez la série quand la hauteur baisse.",
+   "safety": "Vérifiez la solidité de la barre avant chaque série.",
+   "muscles": [
+    "Dos",
+    "Biceps",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Explosive pull-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Pull quickly from a stable hang, aiming the bar toward your chest. End the set when pull height drops.",
+   "safety": "Check that the bar is secure before every set.",
+   "muscles": [
+    "Back",
+    "Biceps",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "explosive-pullup.webp",
+   "peak": "explosive-pullup-peak.webp",
+   "video": "explosive-pullup.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 1.08
+  }
+ },
+ {
+  "id": "muscle-up",
+  "category": "pull",
+  "level": 2,
+  "equipment": "bar",
+  "target": 3,
+  "hold": false,
+  "muscles": [
+   "back",
+   "chest",
+   "triceps"
+  ],
+  "fr": {
+   "name": "Muscle-up strict",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Maîtrisez d’abord les tractions et dips contrôlés.",
+   "safety": "Maîtrisez d’abord tractions et dips stricts et progressez graduellement.",
+   "muscles": [
+    "Dos",
+    "Pectoraux",
+    "Triceps"
+   ]
+  },
+  "en": {
+   "name": "Strict muscle-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "First build strong controlled pull-ups and dips.",
+   "safety": "Master strict pull-ups and dips first and progress gradually.",
+   "muscles": [
+    "Back",
+    "Chest",
+    "Triceps"
+   ]
+  },
+  "media": {
+   "poster": "muscle-up.webp",
+   "peak": "muscle-up-peak.webp",
+   "video": "muscle-up.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.85
+  }
+ },
+ {
+  "id": "one-arm-negative",
+  "category": "pull",
+  "level": 2,
+  "equipment": "bar",
+  "target": 3,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Traction négative à un bras",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Partez d’une suspension contrôlée et engagez les omoplates.",
+   "safety": "Vérifiez la solidité de la barre avant chaque série.",
+   "muscles": [
+    "Dos",
+    "Biceps",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "One-arm negative pull-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Start from a controlled hang and engage the shoulder blades.",
+   "safety": "Check that the bar is secure before every set.",
+   "muscles": [
+    "Back",
+    "Biceps",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "one-arm-negative.webp",
+   "peak": "one-arm-negative-peak.webp",
+   "video": "one-arm-negative.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "toes-to-bar",
+  "category": "core",
+  "level": 2,
+  "equipment": "bar",
+  "target": 6,
+  "hold": false,
+  "muscles": [
+   "core",
+   "hips",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Pieds à la barre",
+   "category": "Sangle abdominale",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Partez d’une suspension active stable sans balancement.",
+   "safety": "Partez d’une suspension immobile et arrêtez si la prise faiblit.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Toes to bar",
+   "category": "Core",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Start from a stable active hang without swinging.",
+   "safety": "Start from a still hang and stop if your grip fades.",
+   "muscles": [
+    "Core",
+    "Hip flexors",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "toes-to-bar.webp",
+   "peak": "toes-to-bar-peak.webp",
+   "video": "toes-to-bar.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "dragon-negative",
+  "category": "core",
+  "level": 2,
+  "equipment": "bar",
+  "target": 4,
+  "hold": false,
+  "muscles": [
+   "core",
+   "hips"
+  ],
+  "fr": {
+   "name": "Dragon flag négatif",
+   "category": "Sangle abdominale",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Bougez lentement en contrôlant la position du bas du dos.",
+   "safety": "Pliez les genoux pour réduire le levier si le dos se cambre.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche"
+   ]
+  },
+  "en": {
+   "name": "Dragon flag negative",
+   "category": "Core",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Move slowly and keep your lower back position controlled.",
+   "safety": "Bend the knees to shorten the lever if the back arches.",
+   "muscles": [
+    "Core",
+    "Hip flexors"
+   ]
+  },
+  "media": {
+   "poster": "dragon-negative.webp",
+   "peak": "dragon-negative-peak.webp",
+   "video": "dragon-negative.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 4.15
+  }
+ },
+ {
+  "id": "pistol",
+  "category": "legs",
+  "level": 2,
+  "equipment": "none",
+  "target": 5,
+  "hold": false,
+  "muscles": [
+   "legs",
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Pistol squat",
+   "category": "Jambes",
+   "equipment": "Sans matériel",
+   "level": "Avancé",
+   "cue": "Descendez sur un pied, l’autre jambe devant vous. Revenez à la variante assistée si le talon se lève ou si vous perdez le contrôle.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Quadriceps",
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Pistol squat",
+   "category": "Legs",
+   "equipment": "No equipment",
+   "level": "Advanced",
+   "cue": "Sit down over one foot with the other leg forward. Use the assisted version if the heel lifts or you lose control.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Quadriceps",
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "pistol.webp",
+   "peak": "pistol-peak.webp",
+   "video": "pistol.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "handstand",
+  "category": "balance",
+  "level": 2,
+  "equipment": "none",
+  "target": 10,
+  "hold": true,
+  "muscles": [
+   "shoulders",
+   "triceps",
+   "core"
+  ],
+  "fr": {
+   "name": "Équilibre libre",
+   "category": "Équilibre",
+   "equipment": "Sans matériel",
+   "level": "Avancé",
+   "cue": "Préparez poignets et épaules avant la charge en inversion.",
+   "safety": "Gardez une sortie dégagée et pratiquez sur une surface souple.",
+   "muscles": [
+    "Épaules",
+    "Triceps",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Freestanding handstand",
+   "category": "Balance",
+   "equipment": "No equipment",
+   "level": "Advanced",
+   "cue": "Build wrist and shoulder tolerance before adding load upside down.",
+   "safety": "Keep a clear exit and practise over a soft surface.",
+   "muscles": [
+    "Shoulders",
+    "Triceps",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "handstand.webp",
+   "peak": "handstand-peak.webp",
+   "video": "handstand.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 3.4
+  }
+ },
+ {
+  "id": "handstand-taps",
+  "category": "balance",
+  "level": 2,
+  "equipment": "wall",
+  "target": 8,
+  "hold": false,
+  "muscles": [
+   "shoulders",
+   "triceps",
+   "core"
+  ],
+  "fr": {
+   "name": "Touches d’épaules au mur",
+   "category": "Équilibre",
+   "equipment": "Mur",
+   "level": "Avancé",
+   "cue": "Préparez poignets et épaules avant la charge en inversion.",
+   "safety": "Gardez une sortie dégagée et pratiquez sur une surface souple.",
+   "muscles": [
+    "Épaules",
+    "Triceps",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Wall handstand shoulder taps",
+   "category": "Balance",
+   "equipment": "Wall",
+   "level": "Advanced",
+   "cue": "Build wrist and shoulder tolerance before adding load upside down.",
+   "safety": "Keep a clear exit and practise over a soft surface.",
+   "muscles": [
+    "Shoulders",
+    "Triceps",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "handstand-taps.webp",
+   "peak": "handstand-taps-peak.webp",
+   "video": "handstand-taps.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "vsit",
+  "category": "statics",
+  "level": 2,
+  "equipment": "parallettes",
+  "target": 8,
+  "hold": true,
+  "muscles": [
+   "core",
+   "hips",
+   "triceps"
+  ],
+  "fr": {
+   "name": "V-sit",
+   "category": "Figures statiques",
+   "equipment": "Barres parallèles",
+   "level": "Avancé",
+   "cue": "Repoussez fermement les barres, coudes tendus.",
+   "safety": "Échauffez les poignets et arrêtez avant la douleur.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche",
+    "Triceps"
+   ]
+  },
+  "en": {
+   "name": "V-sit",
+   "category": "Static holds",
+   "equipment": "Parallel bars",
+   "level": "Advanced",
+   "cue": "Press firmly into the bars with elbows extended.",
+   "safety": "Warm up the wrists and stop before they ache.",
+   "muscles": [
+    "Core",
+    "Hip flexors",
+    "Triceps"
+   ]
+  },
+  "media": {
+   "poster": "vsit.webp",
+   "peak": "vsit-peak.webp",
+   "video": "vsit.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "tuck-planche",
+  "category": "statics",
+  "level": 2,
+  "equipment": "parallettes",
+  "target": 8,
+  "hold": true,
+  "muscles": [
+   "shoulders",
+   "core",
+   "chest"
+  ],
+  "fr": {
+   "name": "Planche groupée",
+   "category": "Figures statiques",
+   "equipment": "Barres parallèles",
+   "level": "Avancé",
+   "cue": "Penchez-vous sur bras tendus et groupez les genoux. Décollez les pieds seulement si l’appui est stable.",
+   "safety": "Préparez les poignets et progressez lentement : les tendons s’adaptent moins vite que les muscles.",
+   "muscles": [
+    "Épaules",
+    "Abdominaux",
+    "Pectoraux"
+   ]
+  },
+  "en": {
+   "name": "Tuck planche",
+   "category": "Static holds",
+   "equipment": "Parallel bars",
+   "level": "Advanced",
+   "cue": "Lean forward on straight arms and tuck your knees. Lift the feet only when the support is stable.",
+   "safety": "Prepare the wrists and progress slowly: tendons adapt more slowly than muscle.",
+   "muscles": [
+    "Shoulders",
+    "Core",
+    "Chest"
+   ]
+  },
+  "media": {
+   "poster": "tuck-planche.webp",
+   "peak": "tuck-planche-peak.webp",
+   "video": "tuck-planche.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "advanced-tuck",
+  "category": "statics",
+  "level": 2,
+  "equipment": "parallettes",
+  "target": 8,
+  "hold": true,
+  "muscles": [
+   "shoulders",
+   "core",
+   "chest"
+  ],
+  "fr": {
+   "name": "Planche groupée avancée",
+   "category": "Figures statiques",
+   "equipment": "Barres parallèles",
+   "level": "Avancé",
+   "cue": "Préparez les poignets, commencez pieds au sol et progressez graduellement.",
+   "safety": "Préparez les poignets et progressez lentement : les tendons s’adaptent moins vite que les muscles.",
+   "muscles": [
+    "Épaules",
+    "Abdominaux",
+    "Pectoraux"
+   ]
+  },
+  "en": {
+   "name": "Advanced tuck planche",
+   "category": "Static holds",
+   "equipment": "Parallel bars",
+   "level": "Advanced",
+   "cue": "Prepare wrists and start with feet supported. Progress gradually.",
+   "safety": "Prepare the wrists and progress slowly: tendons adapt more slowly than muscle.",
+   "muscles": [
+    "Shoulders",
+    "Core",
+    "Chest"
+   ]
+  },
+  "media": {
+   "poster": "advanced-tuck.webp",
+   "peak": "advanced-tuck-peak.webp",
+   "video": "advanced-tuck.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "straddle-planche",
+  "category": "statics",
+  "level": 2,
+  "equipment": "parallettes",
+  "target": 5,
+  "hold": true,
+  "muscles": [
+   "shoulders",
+   "core",
+   "chest"
+  ],
+  "fr": {
+   "name": "Planche écartée",
+   "category": "Figures statiques",
+   "equipment": "Barres parallèles",
+   "level": "Avancé",
+   "cue": "Préparez les poignets, commencez pieds au sol et progressez graduellement.",
+   "safety": "Préparez les poignets et progressez lentement : les tendons s’adaptent moins vite que les muscles.",
+   "muscles": [
+    "Épaules",
+    "Abdominaux",
+    "Pectoraux"
+   ]
+  },
+  "en": {
+   "name": "Straddle planche",
+   "category": "Static holds",
+   "equipment": "Parallel bars",
+   "level": "Advanced",
+   "cue": "Prepare wrists and start with feet supported. Progress gradually.",
+   "safety": "Prepare the wrists and progress slowly: tendons adapt more slowly than muscle.",
+   "muscles": [
+    "Shoulders",
+    "Core",
+    "Chest"
+   ]
+  },
+  "media": {
+   "poster": "straddle-planche.webp",
+   "peak": "straddle-planche-peak.webp",
+   "video": "straddle-planche.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 2.9
+  }
+ },
+ {
+  "id": "full-planche",
+  "category": "statics",
+  "level": 2,
+  "equipment": "parallettes",
+  "target": 5,
+  "hold": true,
+  "muscles": [
+   "shoulders",
+   "core",
+   "chest"
+  ],
+  "fr": {
+   "name": "Planche complète",
+   "category": "Figures statiques",
+   "equipment": "Barres parallèles",
+   "level": "Avancé",
+   "cue": "Préparez les poignets, commencez pieds au sol et progressez graduellement.",
+   "safety": "Préparez les poignets et progressez lentement : les tendons s’adaptent moins vite que les muscles.",
+   "muscles": [
+    "Épaules",
+    "Abdominaux",
+    "Pectoraux"
+   ]
+  },
+  "en": {
+   "name": "Full planche",
+   "category": "Static holds",
+   "equipment": "Parallel bars",
+   "level": "Advanced",
+   "cue": "Prepare wrists and start with feet supported. Progress gradually.",
+   "safety": "Prepare the wrists and progress slowly: tendons adapt more slowly than muscle.",
+   "muscles": [
+    "Shoulders",
+    "Core",
+    "Chest"
+   ]
+  },
+  "media": {
+   "poster": "full-planche.webp",
+   "peak": "full-planche-peak.webp",
+   "video": "full-planche.mp4",
+   "width": 640,
+   "height": 360,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "advanced-front",
+  "category": "statics",
+  "level": 2,
+  "equipment": "bar",
+  "target": 8,
+  "hold": true,
+  "muscles": [
+   "back",
+   "core",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Front lever groupé avancé",
+   "category": "Figures statiques",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Depuis le groupé, éloignez les genoux de la poitrine en gardant les hanches à hauteur des épaules.",
+   "safety": "Ces tenues sollicitent coudes et épaules : progressez avec les variantes groupées.",
+   "muscles": [
+    "Dos",
+    "Abdominaux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Advanced tuck front lever",
+   "category": "Static holds",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "From the tuck, move your knees away from your chest while keeping hips and shoulders level.",
+   "safety": "These holds load elbows and shoulders: build up with tucked variations.",
+   "muscles": [
+    "Back",
+    "Core",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "advanced-front.webp",
+   "peak": "advanced-front-peak.webp",
+   "video": "advanced-front.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "one-leg-front",
+  "category": "statics",
+  "level": 2,
+  "equipment": "bar",
+  "target": 8,
+  "hold": true,
+  "muscles": [
+   "back",
+   "core",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Front lever une jambe",
+   "category": "Figures statiques",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Utilisez un support fiable et un levier que vous contrôlez.",
+   "safety": "Ces tenues sollicitent coudes et épaules : progressez avec les variantes groupées.",
+   "muscles": [
+    "Dos",
+    "Abdominaux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "One-leg front lever",
+   "category": "Static holds",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Use a stable, tested support and choose a lever you can control.",
+   "safety": "These holds load elbows and shoulders: build up with tucked variations.",
+   "muscles": [
+    "Back",
+    "Core",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "one-leg-front.webp",
+   "peak": "one-leg-front-peak.webp",
+   "video": "one-leg-front.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "front-lever",
+  "category": "statics",
+  "level": 2,
+  "equipment": "bar",
+  "target": 5,
+  "hold": true,
+  "muscles": [
+   "back",
+   "core",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Front lever",
+   "category": "Figures statiques",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Utilisez un support fiable et un levier que vous contrôlez.",
+   "safety": "Ces tenues sollicitent coudes et épaules : progressez avec les variantes groupées.",
+   "muscles": [
+    "Dos",
+    "Abdominaux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Front lever",
+   "category": "Static holds",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Use a stable, tested support and choose a lever you can control.",
+   "safety": "These holds load elbows and shoulders: build up with tucked variations.",
+   "muscles": [
+    "Back",
+    "Core",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "front-lever.webp",
+   "peak": "front-lever-peak.webp",
+   "video": "front-lever.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "back-lever",
+  "category": "statics",
+  "level": 2,
+  "equipment": "bar",
+  "target": 5,
+  "hold": true,
+  "muscles": [
+   "back",
+   "core",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Back lever",
+   "category": "Figures statiques",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Utilisez un support fiable et un levier que vous contrôlez.",
+   "safety": "Ces tenues sollicitent coudes et épaules : progressez avec les variantes groupées.",
+   "muscles": [
+    "Dos",
+    "Abdominaux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Back lever",
+   "category": "Static holds",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Use a stable, tested support and choose a lever you can control.",
+   "safety": "These holds load elbows and shoulders: build up with tucked variations.",
+   "muscles": [
+    "Back",
+    "Core",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "back-lever.webp",
+   "peak": "back-lever-peak.webp",
+   "video": "back-lever.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "human-flag",
+  "category": "statics",
+  "level": 2,
+  "equipment": "bar",
+  "target": 5,
+  "hold": true,
+  "muscles": [
+   "back",
+   "core",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Drapeau humain",
+   "category": "Figures statiques",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Utilisez un support fiable et un levier que vous contrôlez.",
+   "safety": "Ces tenues sollicitent coudes et épaules : progressez avec les variantes groupées.",
+   "muscles": [
+    "Dos",
+    "Abdominaux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Human flag",
+   "category": "Static holds",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Use a stable, tested support and choose a lever you can control.",
+   "safety": "These holds load elbows and shoulders: build up with tucked variations.",
+   "muscles": [
+    "Back",
+    "Core",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "human-flag.webp",
+   "peak": "human-flag-peak.webp",
+   "video": "human-flag.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 3.1
+  }
+ },
+ {
+  "id": "ring-dip",
+  "category": "rings",
+  "level": 2,
+  "equipment": "rings",
+  "target": 5,
+  "hold": false,
+  "muscles": [
+   "triceps",
+   "chest",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Dips aux anneaux",
+   "category": "Anneaux",
+   "equipment": "Anneaux",
+   "level": "Avancé",
+   "cue": "Utilisez un support stable et abaissez les épaules.",
+   "safety": "Utilisez des appuis stables et ne descendez que dans une amplitude confortable.",
+   "muscles": [
+    "Triceps",
+    "Pectoraux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Ring dip",
+   "category": "Rings",
+   "equipment": "Rings",
+   "level": "Advanced",
+   "cue": "Use stable equipment and press the shoulders away from the ears.",
+   "safety": "Use stable supports and only go as low as is comfortable.",
+   "muscles": [
+    "Triceps",
+    "Chest",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "ring-dip.webp",
+   "peak": "ring-dip-peak.webp",
+   "video": "ring-dip.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "ring-muscleup",
+  "category": "rings",
+  "level": 2,
+  "equipment": "rings",
+  "target": 3,
+  "hold": false,
+  "muscles": [
+   "back",
+   "chest",
+   "triceps"
+  ],
+  "fr": {
+   "name": "Muscle-up aux anneaux",
+   "category": "Anneaux",
+   "equipment": "Anneaux",
+   "level": "Avancé",
+   "cue": "Maîtrisez d’abord les tractions et dips contrôlés.",
+   "safety": "Maîtrisez d’abord tractions et dips stricts et progressez graduellement.",
+   "muscles": [
+    "Dos",
+    "Pectoraux",
+    "Triceps"
+   ]
+  },
+  "en": {
+   "name": "Ring muscle-up",
+   "category": "Rings",
+   "equipment": "Rings",
+   "level": "Advanced",
+   "cue": "First build strong controlled pull-ups and dips.",
+   "safety": "Master strict pull-ups and dips first and progress gradually.",
+   "muscles": [
+    "Back",
+    "Chest",
+    "Triceps"
+   ]
+  },
+  "media": {
+   "poster": "ring-muscleup.webp",
+   "peak": "ring-muscleup-peak.webp",
+   "video": "ring-muscleup.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.85
+  }
+ },
+ {
+  "id": "elevated-pike",
+  "category": "push",
+  "level": 2,
+  "equipment": "platform",
+  "target": 6,
+  "hold": false,
+  "muscles": [
+   "shoulders",
+   "triceps",
+   "core"
+  ],
+  "fr": {
+   "name": "Pompe pike surélevée",
+   "category": "Poussée",
+   "equipment": "Support stable",
+   "level": "Avancé",
+   "cue": "Préparez poignets et épaules avant la charge en inversion.",
+   "safety": "Gardez une sortie dégagée et pratiquez sur une surface souple.",
+   "muscles": [
+    "Épaules",
+    "Triceps",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Elevated pike push-up",
+   "category": "Push",
+   "equipment": "Stable platform",
+   "level": "Advanced",
+   "cue": "Build wrist and shoulder tolerance before adding load upside down.",
+   "safety": "Keep a clear exit and practise over a soft surface.",
+   "muscles": [
+    "Shoulders",
+    "Triceps",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "elevated-pike.webp",
+   "peak": "elevated-pike-peak.webp",
+   "video": "elevated-pike.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "hspu-negative",
+  "category": "push",
+  "level": 2,
+  "equipment": "wall",
+  "target": 3,
+  "hold": false,
+  "muscles": [
+   "shoulders",
+   "triceps",
+   "core"
+  ],
+  "fr": {
+   "name": "Descente en équilibre au mur",
+   "category": "Poussée",
+   "equipment": "Mur",
+   "level": "Avancé",
+   "cue": "Préparez poignets et épaules avant la charge en inversion.",
+   "safety": "Gardez une sortie dégagée et pratiquez sur une surface souple.",
+   "muscles": [
+    "Épaules",
+    "Triceps",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Wall handstand push-up negative",
+   "category": "Push",
+   "equipment": "Wall",
+   "level": "Advanced",
+   "cue": "Build wrist and shoulder tolerance before adding load upside down.",
+   "safety": "Keep a clear exit and practise over a soft surface.",
+   "muscles": [
+    "Shoulders",
+    "Triceps",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "hspu-negative.webp",
+   "peak": "hspu-negative-peak.webp",
+   "video": "hspu-negative.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 4.15
+  }
+ },
+ {
+  "id": "chest-to-bar",
+  "category": "pull",
+  "level": 2,
+  "equipment": "bar",
+  "target": 4,
+  "hold": false,
+  "muscles": [
+   "back",
+   "biceps",
+   "forearms"
+  ],
+  "fr": {
+   "name": "Traction poitrine à la barre",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Partez d’une suspension contrôlée et engagez les omoplates.",
+   "safety": "Vérifiez la solidité de la barre avant chaque série.",
+   "muscles": [
+    "Dos",
+    "Biceps",
+    "Avant-bras"
+   ]
+  },
+  "en": {
+   "name": "Chest-to-bar pull-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Start from a controlled hang and engage the shoulder blades.",
+   "safety": "Check that the bar is secure before every set.",
+   "muscles": [
+    "Back",
+    "Biceps",
+    "Forearms"
+   ]
+  },
+  "media": {
+   "poster": "chest-to-bar.webp",
+   "peak": "chest-to-bar-peak.webp",
+   "video": "chest-to-bar.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.3
+  }
+ },
+ {
+  "id": "low-bar-transition",
+  "category": "pull",
+  "level": 2,
+  "equipment": "bar",
+  "target": 5,
+  "hold": false,
+  "muscles": [
+   "back",
+   "chest",
+   "triceps"
+  ],
+  "fr": {
+   "name": "Transition muscle-up barre basse",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Maîtrisez d’abord les tractions et dips contrôlés.",
+   "safety": "Maîtrisez d’abord tractions et dips stricts et progressez graduellement.",
+   "muscles": [
+    "Dos",
+    "Pectoraux",
+    "Triceps"
+   ]
+  },
+  "en": {
+   "name": "Low-bar muscle-up transition",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "First build strong controlled pull-ups and dips.",
+   "safety": "Master strict pull-ups and dips first and progress gradually.",
+   "muscles": [
+    "Back",
+    "Chest",
+    "Triceps"
+   ]
+  },
+  "media": {
+   "poster": "low-bar-transition.webp",
+   "peak": "low-bar-transition-peak.webp",
+   "video": "low-bar-transition.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.85
+  }
+ },
+ {
+  "id": "banded-muscle-up",
+  "category": "pull",
+  "level": 2,
+  "equipment": "bar",
+  "target": 3,
+  "hold": false,
+  "muscles": [
+   "back",
+   "chest",
+   "triceps"
+  ],
+  "fr": {
+   "name": "Muscle-up assisté",
+   "category": "Tirage",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Maîtrisez d’abord les tractions et dips contrôlés.",
+   "safety": "Maîtrisez d’abord tractions et dips stricts et progressez graduellement.",
+   "muscles": [
+    "Dos",
+    "Pectoraux",
+    "Triceps"
+   ]
+  },
+  "en": {
+   "name": "Band-assisted muscle-up",
+   "category": "Pull",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "First build strong controlled pull-ups and dips.",
+   "safety": "Master strict pull-ups and dips first and progress gradually.",
+   "muscles": [
+    "Back",
+    "Chest",
+    "Triceps"
+   ]
+  },
+  "media": {
+   "poster": "banded-muscle-up.webp",
+   "peak": "banded-muscle-up-peak.webp",
+   "video": "banded-muscle-up.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.85
+  }
+ },
+ {
+  "id": "shrimp-squat",
+  "category": "legs",
+  "level": 2,
+  "equipment": "none",
+  "target": 5,
+  "hold": false,
+  "muscles": [
+   "legs",
+   "glutes",
+   "core"
+  ],
+  "fr": {
+   "name": "Shrimp squat",
+   "category": "Jambes",
+   "equipment": "Sans matériel",
+   "level": "Avancé",
+   "cue": "Gardez les pieds stables et les genoux dans l’axe des orteils.",
+   "safety": "Utilisez un appui si votre équilibre ou vos genoux sont incertains.",
+   "muscles": [
+    "Quadriceps",
+    "Fessiers",
+    "Abdominaux"
+   ]
+  },
+  "en": {
+   "name": "Shrimp squat",
+   "category": "Legs",
+   "equipment": "No equipment",
+   "level": "Advanced",
+   "cue": "Keep your feet planted and knees following the direction of your toes.",
+   "safety": "Use a support if your balance or knees feel unsure.",
+   "muscles": [
+    "Quadriceps",
+    "Glutes",
+    "Core"
+   ]
+  },
+  "media": {
+   "poster": "shrimp-squat.webp",
+   "peak": "shrimp-squat-peak.webp",
+   "video": "shrimp-squat.mp4",
+   "width": 640,
+   "height": 640,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "tuck-dragon",
+  "category": "core",
+  "level": 2,
+  "equipment": "bar",
+  "target": 5,
+  "hold": false,
+  "muscles": [
+   "core",
+   "hips"
+  ],
+  "fr": {
+   "name": "Dragon flag groupé",
+   "category": "Sangle abdominale",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Bougez lentement en contrôlant la position du bas du dos.",
+   "safety": "Pliez les genoux pour réduire le levier si le dos se cambre.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche"
+   ]
+  },
+  "en": {
+   "name": "Tuck dragon flag",
+   "category": "Core",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Move slowly and keep your lower back position controlled.",
+   "safety": "Bend the knees to shorten the lever if the back arches.",
+   "muscles": [
+    "Core",
+    "Hip flexors"
+   ]
+  },
+  "media": {
+   "poster": "tuck-dragon.webp",
+   "peak": "tuck-dragon-peak.webp",
+   "video": "tuck-dragon.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 4.9
+  }
+ },
+ {
+  "id": "dragon-flag",
+  "category": "core",
+  "level": 2,
+  "equipment": "bar",
+  "target": 4,
+  "hold": false,
+  "muscles": [
+   "core",
+   "hips"
+  ],
+  "fr": {
+   "name": "Dragon flag",
+   "category": "Sangle abdominale",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Bougez lentement en contrôlant la position du bas du dos.",
+   "safety": "Pliez les genoux pour réduire le levier si le dos se cambre.",
+   "muscles": [
+    "Abdominaux",
+    "Fléchisseurs de hanche"
+   ]
+  },
+  "en": {
+   "name": "Dragon flag",
+   "category": "Core",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Move slowly and keep your lower back position controlled.",
+   "safety": "Bend the knees to shorten the lever if the back arches.",
+   "muscles": [
+    "Core",
+    "Hip flexors"
+   ]
+  },
+  "media": {
+   "poster": "dragon-flag.webp",
+   "peak": "dragon-flag-peak.webp",
+   "video": "dragon-flag.mp4",
+   "width": 640,
+   "height": 480,
+   "peakTime": 0
+  }
+ },
+ {
+  "id": "tuck-back",
+  "category": "statics",
+  "level": 2,
+  "equipment": "bar",
+  "target": 10,
+  "hold": true,
+  "muscles": [
+   "back",
+   "core",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Back lever groupé",
+   "category": "Figures statiques",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Utilisez un support fiable et un levier que vous contrôlez.",
+   "safety": "Ces tenues sollicitent coudes et épaules : progressez avec les variantes groupées.",
+   "muscles": [
+    "Dos",
+    "Abdominaux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Tuck back lever",
+   "category": "Static holds",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Use a stable, tested support and choose a lever you can control.",
+   "safety": "These holds load elbows and shoulders: build up with tucked variations.",
+   "muscles": [
+    "Back",
+    "Core",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "tuck-back.webp",
+   "peak": "tuck-back-peak.webp",
+   "video": "tuck-back.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.9
+  }
+ },
+ {
+  "id": "flag-support",
+  "category": "statics",
+  "level": 2,
+  "equipment": "bar",
+  "target": 15,
+  "hold": true,
+  "muscles": [
+   "back",
+   "core",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Drapeau : maintien d’appui",
+   "category": "Figures statiques",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Utilisez un support fiable et un levier que vous contrôlez.",
+   "safety": "Ces tenues sollicitent coudes et épaules : progressez avec les variantes groupées.",
+   "muscles": [
+    "Dos",
+    "Abdominaux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Human flag support hold",
+   "category": "Static holds",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Use a stable, tested support and choose a lever you can control.",
+   "safety": "These holds load elbows and shoulders: build up with tucked variations.",
+   "muscles": [
+    "Back",
+    "Core",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "flag-support.webp",
+   "peak": "flag-support-peak.webp",
+   "video": "flag-support.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.9
+  }
+ },
+ {
+  "id": "flag-tuck",
+  "category": "statics",
+  "level": 2,
+  "equipment": "bar",
+  "target": 8,
+  "hold": true,
+  "muscles": [
+   "back",
+   "core",
+   "shoulders"
+  ],
+  "fr": {
+   "name": "Drapeau groupé",
+   "category": "Figures statiques",
+   "equipment": "Barre de traction",
+   "level": "Avancé",
+   "cue": "Utilisez un support fiable et un levier que vous contrôlez.",
+   "safety": "Ces tenues sollicitent coudes et épaules : progressez avec les variantes groupées.",
+   "muscles": [
+    "Dos",
+    "Abdominaux",
+    "Épaules"
+   ]
+  },
+  "en": {
+   "name": "Tuck human flag",
+   "category": "Static holds",
+   "equipment": "Pull-up bar",
+   "level": "Advanced",
+   "cue": "Use a stable, tested support and choose a lever you can control.",
+   "safety": "These holds load elbows and shoulders: build up with tucked variations.",
+   "muscles": [
+    "Back",
+    "Core",
+    "Shoulders"
+   ]
+  },
+  "media": {
+   "poster": "flag-tuck.webp",
+   "peak": "flag-tuck-peak.webp",
+   "video": "flag-tuck.mp4",
+   "width": 640,
+   "height": 800,
+   "peakTime": 2.9
+  }
+ }
+]

@@ -1,0 +1,93 @@
+[
+ {
+  "id": "pull",
+  "fr": "Première traction",
+  "en": "First pull-up",
+  "steps": [
+   "dead-hang",
+   "active-hang",
+   "australian-row",
+   "negative-pullup",
+   "pullup"
+  ]
+ },
+ {
+  "id": "lsit",
+  "fr": "L-sit",
+  "en": "L-sit",
+  "steps": [
+   "plank",
+   "compression",
+   "tuck-lsit",
+   "one-leg-lsit",
+   "lsit",
+   "vsit"
+  ]
+ },
+ {
+  "id": "handstand",
+  "fr": "Handstand",
+  "en": "Handstand",
+  "steps": [
+   "wrist-prep",
+   "frog",
+   "pike-pushup",
+   "wall-handstand",
+   "chest-wall",
+   "handstand"
+  ]
+ },
+ {
+  "id": "muscle",
+  "fr": "Muscle-up",
+  "en": "Muscle-up",
+  "steps": [
+   "active-hang",
+   "pullup",
+   "dip",
+   "explosive-pullup",
+   "straight-dip",
+   "muscle-up"
+  ]
+ },
+ {
+  "id": "front",
+  "fr": "Front lever",
+  "en": "Front lever",
+  "steps": [
+   "hollow",
+   "pullup",
+   "tuck-front",
+   "advanced-front",
+   "one-leg-front",
+   "front-lever"
+  ]
+ },
+ {
+  "id": "planche",
+  "fr": "Planche",
+  "en": "Planche",
+  "steps": [
+   "wrist-prep",
+   "scap-pushup",
+   "planche-lean",
+   "tuck-planche",
+   "advanced-tuck",
+   "straddle-planche",
+   "full-planche"
+  ]
+ },
+ {
+  "id": "pistol",
+  "fr": "Pistol squat",
+  "en": "Pistol squat",
+  "steps": [
+   "squat",
+   "lunge",
+   "split-squat",
+   "cossack",
+   "assisted-pistol",
+   "pistol"
+  ]
+ }
+]

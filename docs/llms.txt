@@ -1,0 +1,35 @@
+# KALIST
+
+> Calisthenics app: bodyweight programs, a skill journey and an on-device camera coach. Application de calisthenics : programmes au poids du corps, parcours de figures et coach caméra sur l’appareil.
+
+KALIST is a calisthenics app for Android and iPhone (French, English, Spanish, German, Simplified Chinese). Camera analysis runs on the device; no account, ads or tracking. Publisher: Boris Prempain — EI, contact kalist.support@gmail.com. Structured content: https://borispre.github.io/kalist-site/content.json
+
+## Guides (FR)
+- [Réussir sa première traction : la progression complète](https://borispre.github.io/kalist-site/guides/premiere-traction/): Réussir sa première traction en 5 étapes : suspension, tirage australien, négatives, puis traction stricte. Objectifs, fréquence et erreurs à éviter.
+- [Apprendre le muscle-up : prérequis et progression étape par étape](https://borispre.github.io/kalist-site/guides/muscle-up/): Apprendre le muscle-up à la barre : les prérequis en tractions et dips, la traction explosive, les dips à la barre droite et la transition, en 6 étapes.
+- [Front lever : la progression complète, du hollow body au front lever](https://borispre.github.io/kalist-site/guides/front-lever/): Progression front lever en 6 étapes : hollow body, tractions, tuck front lever, advanced tuck, front lever une jambe puis complet. Durées et conseils.
+- [Planche calisthenics : progression du tuck à la planche complète](https://borispre.github.io/kalist-site/guides/planche/): Apprendre la planche en calisthenics : préparation des poignets, planche lean, tuck planche, advanced tuck, straddle puis full planche. Conseils et erreurs.
+- [Apprendre le handstand : la progression vers l’équilibre sur les mains](https://borispre.github.io/kalist-site/guides/handstand/): Apprendre le handstand pas à pas : poignets, frog stand, pompes pike, équilibre au mur dos puis face au mur, et équilibre libre. Sortie de sécurité incluse.
+- [L-sit : la progression pour débutants, du gainage au V-sit](https://borispre.github.io/kalist-site/guides/l-sit/): Apprendre le L-sit : gainage, compression, L-sit groupé, une jambe, L-sit complet puis V-sit. Objectifs de maintien, matériel et erreurs à éviter.
+- [Pistol squat : la progression pour réussir le squat sur une jambe](https://borispre.github.io/kalist-site/guides/pistol-squat/): Réussir le pistol squat (squat sur une jambe) : squat, fente arrière, split squat, squat cosaque, pistol assisté puis pistol complet. Mobilité et conseils.
+
+## Guides (EN)
+- [How to do your first pull-up: a 5-step progression](https://borispre.github.io/kalist-site/en/guides/first-pull-up/): Get your first pull-up in 5 steps: dead hang, active hang, Australian rows, negatives and the strict pull-up. Goals, training frequency and common mistakes.
+- [Muscle-up progression: prerequisites and the 6 steps to your first rep](https://borispre.github.io/kalist-site/en/guides/muscle-up-progression/): A step-by-step muscle-up progression on the bar: pull-up and dip prerequisites, explosive pull-ups, straight bar dips and the transition, in 6 steps.
+- [Front lever progression: from hollow body to full front lever](https://borispre.github.io/kalist-site/en/guides/front-lever-progression/): Front lever progression in 6 steps: hollow body, pull-ups, tuck front lever, advanced tuck, one-leg and full front lever. Hold times and training tips.
+- [Planche progression: from tuck planche to full planche](https://borispre.github.io/kalist-site/en/guides/planche-progression/): Learn the calisthenics planche: wrist preparation, planche lean, tuck planche, advanced tuck, straddle and full planche. Training tips and common mistakes.
+- [Handstand progression: how to learn to balance on your hands](https://borispre.github.io/kalist-site/en/guides/handstand-progression/): Learn the handstand step by step: wrist prep, frog stand, pike push-ups, back-to-wall and chest-to-wall handstands, then freestanding. Safe bail-out included.
+- [L-sit progression for beginners: from plank to V-sit](https://borispre.github.io/kalist-site/en/guides/l-sit-progression/): Learn the L-sit: plank, compression, tuck L-sit, one-leg L-sit, full L-sit and V-sit. Hold targets, equipment and the mistakes to avoid.
+- [Pistol squat progression: how to master the one-leg squat](https://borispre.github.io/kalist-site/en/guides/pistol-squat-progression/): Master the pistol squat (one-leg squat): bodyweight squat, reverse lunge, split squat, cossack squat, assisted pistol and full pistol. Mobility and tips.
+
+## Blog
+- [Programme calisthenics débutant : 3 séances par semaine pour bien démarrer](https://borispre.github.io/kalist-site/blog/programme-calisthenics-debutant/): Un programme de calisthenics pour débutant, en deux séances A et B à alterner trois fois par semaine : exercices, séries, répétitions, repos et progression.
+- [Calisthenics à la maison sans matériel : 12 exercices pour commencer](https://borispre.github.io/kalist-site/blog/calisthenics-maison-sans-materiel/): 12 exercices de calisthenics à faire à la maison sans matériel, du haut du corps aux jambes et au gainage, avec un circuit de 20 minutes pour débuter.
+- [Street workout ou calisthenics : quelle différence ?](https://borispre.github.io/kalist-site/blog/street-workout-ou-calisthenics/): Street workout et calisthenics désignent tous deux l’entraînement au poids du corps. Origines, différences, disciplines et conseils pour bien commencer.
+- [Beginner calisthenics program: a 3-day plan to get started](https://borispre.github.io/kalist-site/en/blog/beginner-calisthenics-program/): A beginner calisthenics program with two workouts, A and B, alternated three times a week: exercises, sets, reps, rest times and how to progress.
+- [Calisthenics at home with no equipment: 12 exercises to start](https://borispre.github.io/kalist-site/en/blog/calisthenics-at-home-no-equipment/): 12 calisthenics exercises you can do at home with no equipment, for upper body, legs and core, plus a 20-minute beginner circuit.
+- [Street workout vs calisthenics: what’s the difference?](https://borispre.github.io/kalist-site/en/blog/street-workout-vs-calisthenics/): Street workout and calisthenics both mean bodyweight training. Their origins, differences, disciplines and how to get started with either.
+
+## Reference
+- [Exercices de calisthenics : 94 mouvements animés](https://borispre.github.io/kalist-site/exercices/): Liste des exercices de calisthenics du débutant à l’avancé : pompes, tractions, dips, gainage, jambes, anneaux et figures, avec animation et muscles travaillés.
+- [Calisthenics exercises: 94 animated movements](https://borispre.github.io/kalist-site/en/exercises/): Calisthenics exercise list from beginner to advanced: push-ups, pull-ups, dips, core, legs, rings and skills, each with an animation and the muscles worked.

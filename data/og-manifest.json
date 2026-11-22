@@ -1,0 +1,219 @@
+[
+ {
+  "key": "home",
+  "lang": "fr",
+  "title": "Application de calisthenics et street workout",
+  "eyebrow": "",
+  "image": null
+ },
+ {
+  "key": "en",
+  "lang": "en",
+  "title": "Calisthenics app: programs, skills and camera coach",
+  "eyebrow": "",
+  "image": null
+ },
+ {
+  "key": "guides-premiere-traction",
+  "lang": "fr",
+  "title": "Réussir sa première traction : la progression complète",
+  "eyebrow": "Guide de progression",
+  "image": "pullup"
+ },
+ {
+  "key": "guides-muscle-up",
+  "lang": "fr",
+  "title": "Apprendre le muscle-up : prérequis et progression étape par étape",
+  "eyebrow": "Guide de progression",
+  "image": "muscle-up"
+ },
+ {
+  "key": "guides-front-lever",
+  "lang": "fr",
+  "title": "Front lever : la progression complète, du hollow body au front lever",
+  "eyebrow": "Guide de progression",
+  "image": "front-lever"
+ },
+ {
+  "key": "guides-planche",
+  "lang": "fr",
+  "title": "Planche calisthenics : progression du tuck à la planche complète",
+  "eyebrow": "Guide de progression",
+  "image": "full-planche"
+ },
+ {
+  "key": "guides-handstand",
+  "lang": "fr",
+  "title": "Apprendre le handstand : la progression vers l’équilibre sur les mains",
+  "eyebrow": "Guide de progression",
+  "image": "handstand"
+ },
+ {
+  "key": "guides-l-sit",
+  "lang": "fr",
+  "title": "L-sit : la progression pour débutants, du gainage au V-sit",
+  "eyebrow": "Guide de progression",
+  "image": "lsit"
+ },
+ {
+  "key": "guides-pistol-squat",
+  "lang": "fr",
+  "title": "Pistol squat : la progression pour réussir le squat sur une jambe",
+  "eyebrow": "Guide de progression",
+  "image": "pistol"
+ },
+ {
+  "key": "blog-programme-calisthenics-debutant",
+  "lang": "fr",
+  "title": "Programme calisthenics débutant : 3 séances par semaine pour bien démarrer",
+  "eyebrow": "Blog calisthenics",
+  "image": "australian-row"
+ },
+ {
+  "key": "blog-calisthenics-maison-sans-materiel",
+  "lang": "fr",
+  "title": "Calisthenics à la maison sans matériel : 12 exercices pour commencer",
+  "eyebrow": "Blog calisthenics",
+  "image": "pushup"
+ },
+ {
+  "key": "blog-street-workout-ou-calisthenics",
+  "lang": "fr",
+  "title": "Street workout ou calisthenics : quelle différence ?",
+  "eyebrow": "Blog calisthenics",
+  "image": "muscle-up"
+ },
+ {
+  "key": "en-guides-first-pull-up",
+  "lang": "en",
+  "title": "How to do your first pull-up: a 5-step progression",
+  "eyebrow": "Progression guide",
+  "image": "pullup"
+ },
+ {
+  "key": "en-guides-muscle-up-progression",
+  "lang": "en",
+  "title": "Muscle-up progression: prerequisites and the 6 steps to your first rep",
+  "eyebrow": "Progression guide",
+  "image": "muscle-up"
+ },
+ {
+  "key": "en-guides-front-lever-progression",
+  "lang": "en",
+  "title": "Front lever progression: from hollow body to full front lever",
+  "eyebrow": "Progression guide",
+  "image": "front-lever"
+ },
+ {
+  "key": "en-guides-planche-progression",
+  "lang": "en",
+  "title": "Planche progression: from tuck planche to full planche",
+  "eyebrow": "Progression guide",
+  "image": "full-planche"
+ },
+ {
+  "key": "en-guides-handstand-progression",
+  "lang": "en",
+  "title": "Handstand progression: how to learn to balance on your hands",
+  "eyebrow": "Progression guide",
+  "image": "handstand"
+ },
+ {
+  "key": "en-guides-l-sit-progression",
+  "lang": "en",
+  "title": "L-sit progression for beginners: from plank to V-sit",
+  "eyebrow": "Progression guide",
+  "image": "lsit"
+ },
+ {
+  "key": "en-guides-pistol-squat-progression",
+  "lang": "en",
+  "title": "Pistol squat progression: how to master the one-leg squat",
+  "eyebrow": "Progression guide",
+  "image": "pistol"
+ },
+ {
+  "key": "en-blog-beginner-calisthenics-program",
+  "lang": "en",
+  "title": "Beginner calisthenics program: a 3-day plan to get started",
+  "eyebrow": "Calisthenics blog",
+  "image": "australian-row"
+ },
+ {
+  "key": "en-blog-calisthenics-at-home-no-equipment",
+  "lang": "en",
+  "title": "Calisthenics at home with no equipment: 12 exercises to start",
+  "eyebrow": "Calisthenics blog",
+  "image": "pushup"
+ },
+ {
+  "key": "en-blog-street-workout-vs-calisthenics",
+  "lang": "en",
+  "title": "Street workout vs calisthenics: what’s the difference?",
+  "eyebrow": "Calisthenics blog",
+  "image": "muscle-up"
+ },
+ {
+  "key": "guides",
+  "lang": "fr",
+  "title": "Guides de progression calisthenics",
+  "eyebrow": "",
+  "image": null
+ },
+ {
+  "key": "blog",
+  "lang": "fr",
+  "title": "Blog calisthenics et street workout",
+  "eyebrow": "",
+  "image": null
+ },
+ {
+  "key": "en-guides",
+  "lang": "en",
+  "title": "Calisthenics progression guides",
+  "eyebrow": "",
+  "image": null
+ },
+ {
+  "key": "en-blog",
+  "lang": "en",
+  "title": "Calisthenics blog: advice and programs",
+  "eyebrow": "",
+  "image": null
+ },
+ {
+  "key": "exercices",
+  "lang": "fr",
+  "title": "Exercices de calisthenics : 94 mouvements animés",
+  "eyebrow": "Bibliothèque",
+  "image": null
+ },
+ {
+  "key": "en-exercises",
+  "lang": "en",
+  "title": "Calisthenics exercises: 94 animated movements",
+  "eyebrow": "Library",
+  "image": null
+ },
+ {
+  "key": "legal-privacy",
+  "lang": "fr",
+  "title": "Politique de confidentialité / Privacy policy",
+  "eyebrow": "",
+  "image": null
+ },
+ {
+  "key": "legal-terms",
+  "lang": "fr",
+  "title": "Conditions d’utilisation / Terms of use",
+  "eyebrow": "",
+  "image": null
+ },
+ {
+  "key": "legal-support",
+  "lang": "fr",
+  "title": "Assistance / Support",
+  "eyebrow": "",
+  "image": null
+ }
+]
